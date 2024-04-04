@@ -1,0 +1,16 @@
+Engine Size (L),Horsepower,Fuel Efficiency (mpg),Weight (lbs),Car Type
+2,150,35,3000,Sedan
+2.2,180,30,3200,Sedan
+3,200,28,3500,SUV
+1.5,130,40,2800,Sedan
+3.5,250,25,4000,SUV
+4,300,22,4500,Truck
+2,160,32,3100,Sedan
+2.5,205,29,3300,Sedan
+3.5,280,27,3800,SUV
+4.5,320,20,4800,Truck
+1.8,140,38,2900,Sedan
+2.4,175,33,3150,Sedan
+3.7,265,26,4100,SUV
+5,400,18,5000,Truck
+2.1,155,36,3050,Sedan
